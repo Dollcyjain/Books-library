@@ -1,2 +1,2 @@
 # Books-library
-This is a repository for Book Library simulation
+This is a simple code for Book Library simulation
